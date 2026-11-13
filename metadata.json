@@ -1,0 +1,8 @@
+{
+  "name": "Remix DOKIDOKI - Web3 Play-to-Earn Gaming Ecosystem",
+  "description": "Skill-based play-to-earn mobile gaming platform inspired by Kadokado with annual halving tokenomics, daily emission mining, and VIP progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
